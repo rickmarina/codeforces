@@ -1,7 +1,7 @@
 using System.Linq;
 using System; 
 
-namespace codeforces.challengesB {
+namespace codeforces.challengesA {
 
     //A. Polycarp and Coins
     public class problem1551A {
