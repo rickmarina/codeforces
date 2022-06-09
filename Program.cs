@@ -9,7 +9,6 @@ namespace codeforces
         static void Main(string[] args)
         {
             
-           
 
 
         }
