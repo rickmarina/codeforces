@@ -6,10 +6,13 @@ namespace codeforces
 {
     class Program
     {
-
+        
         static void Main(string[] args)
         {
-           
+
+            
+            
+
         }
     }
 }
