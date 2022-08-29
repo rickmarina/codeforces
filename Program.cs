@@ -1,7 +1,6 @@
 ﻿using System.ComponentModel;
 using System;
 using System.Linq;
-using codeforces.challengesA;
 
 namespace codeforces
 {
@@ -11,7 +10,8 @@ namespace codeforces
         static void Main(string[] args)
         {
 
-          problem1454A.solution();
+          
+          
            
         }
     }
