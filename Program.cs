@@ -4,14 +4,13 @@ using System.Linq;
 
 namespace codeforces
 {
-    //1669/A Division ? 
     class Program
     {
         
+        //1385/B. Restore the Permutation by Merger
         static void Main(string[] args)
         {
-
-
+           
         }
     }
 }
