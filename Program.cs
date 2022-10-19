@@ -7,11 +7,9 @@ namespace codeforces
 {
     class Program
     {
-
-        //1542/A. Odd Set
+        //1579/A. Casimir's String Solitaire
         static void Main(string[] args)
         {
-
             
 
         }
