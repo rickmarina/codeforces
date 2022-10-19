@@ -8,12 +8,11 @@ namespace codeforces
     class Program
     {
 
-        //1296/A. Array with Odd Sum
+        //1542/A. Odd Set
         static void Main(string[] args)
         {
 
-           
-
+            
 
         }
     }
