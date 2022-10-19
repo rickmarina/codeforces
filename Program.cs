@@ -6,12 +6,10 @@ namespace codeforces
 {
     class Program
     {
-        
-        //509/A. Maximum in Table
+
+        //1462/A. Favorite Sequence
         static void Main(string[] args)
         {
-          
-
            
         }
     }
