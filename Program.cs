@@ -7,12 +7,13 @@ namespace codeforces
 {
     class Program
     {
-        //1579/A. Casimir's String Solitaire
+        //1676/B. Equal Candies
         static void Main(string[] args)
         {
-            
 
+            
         }
+
     }
 }
 
