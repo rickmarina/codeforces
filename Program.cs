@@ -8,7 +8,7 @@ namespace codeforces
 {
     class Program
     {
-        //1660/A. Vasya and Coins
+        //1742/A. Sum
         static void Main(string[] args)
         {
           
