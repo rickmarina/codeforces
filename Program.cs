@@ -8,7 +8,7 @@ namespace codeforces
 {
     class Program
     {
-        //1325/B. CopyCopyCopyCopyCopy
+        //1538/A. Stone Game
         static void Main(string[] args)
         {
            
