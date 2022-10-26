@@ -8,10 +8,9 @@ namespace codeforces
 {
     class Program
     {
-        //1538/A. Stone Game
+        //1660/A. Vasya and Coins
         static void Main(string[] args)
         {
-           
           
         }
 
