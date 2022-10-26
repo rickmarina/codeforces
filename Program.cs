@@ -8,11 +8,11 @@ namespace codeforces
 {
     class Program
     {
-        //1607/A. Linear Keyboard
+        //1325/B. CopyCopyCopyCopyCopy
         static void Main(string[] args)
         {
+           
           
-
         }
 
     }
