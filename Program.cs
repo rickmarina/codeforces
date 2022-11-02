@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Runtime.CompilerServices;
+using System.Text.RegularExpressions;
 using System.Net.Http.Headers;
 using System.ComponentModel;
 using System;
@@ -8,14 +9,11 @@ namespace codeforces
 {
     class Program
     {
-        //1560/B. Who's Opposite?
+        //1593/A. Elections
         static void Main(string[] args)
         {
-
-
+            
         }
-
-
 
     }
 }
