@@ -8,11 +8,14 @@ namespace codeforces
 {
     class Program
     {
-        //1742/A. Sum
+        //1560/B. Who's Opposite?
         static void Main(string[] args)
         {
-          
+
+
         }
+
+
 
     }
 }
