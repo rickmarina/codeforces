@@ -9,7 +9,7 @@ namespace codeforces
 {
     class Program
     {
-        //1593/A. Elections
+        //1537/A. Arithmetic Array
         static void Main(string[] args)
         {
             
