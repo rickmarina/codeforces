@@ -9,11 +9,10 @@ namespace codeforces
 {
     class Program
     {
-        //978/B. File Name
+        //1538/B. Friends and Candies
         static void Main(string[] args)
         {
-            
-            
+           
         }
 
     }
