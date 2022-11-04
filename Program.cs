@@ -9,11 +9,11 @@ namespace codeforces
 {
     class Program
     {
-        //1490/A. Dense Array
+        //1702/A. Round Down the Price
         static void Main(string[] args)
         {
           
-
+            
         }
 
     }
