@@ -9,10 +9,11 @@ namespace codeforces
 {
     class Program
     {
-        //1618/A. Polycarp and Sums of Subsequences
+        //1490/A. Dense Array
         static void Main(string[] args)
         {
           
+
         }
 
     }
