@@ -9,10 +9,10 @@ namespace codeforces
 {
     class Program
     {
-        //1538/B. Friends and Candies
+        //1618/A. Polycarp and Sums of Subsequences
         static void Main(string[] args)
         {
-           
+          
         }
 
     }
