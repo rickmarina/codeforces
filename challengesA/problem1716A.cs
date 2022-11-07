@@ -3,18 +3,15 @@ using System;
 
 namespace codeforces.challengesA
 {
-
     //1716/A. 2-3 Moves
     public class problem1716A
     {
-
         public static void solution()
         {
             int t = int.Parse(Console.ReadLine());
             while (t-- > 0)
             {
                 int n = int.Parse(Console.ReadLine());
-
                 int total = 0;
 
                 if (n == 1)
