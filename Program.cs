@@ -9,11 +9,9 @@ namespace codeforces
 {
     class Program
     {
-        //894/A. QAQ
+        //1611/A. Make Even
         static void Main(string[] args)
         {
-           
-           
             
         }
 
