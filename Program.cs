@@ -10,10 +10,12 @@ namespace codeforces
 {
     class Program
     {
-        //1716/A. 2-3 Moves
+        //265/A. Colorful Stones (Simplified Edition)
         static void Main(string[] args)
         {
             
+            
+
         }
 
     }
