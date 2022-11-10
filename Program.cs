@@ -11,12 +11,10 @@ namespace codeforces
 {
     class Program
     {
-        //1622/A. Construct a Rectangle
+        //1551/B1. Wonderful Coloring - 1
         static void Main(string[] args)
         {
             
-            
-
         }
 
     }
