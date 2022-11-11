@@ -12,10 +12,10 @@ namespace codeforces
 {
     class Program
     {
-        //1519/B. The Cake Is a Lie
+        //1626/A. Equidistant Letters
         static void Main(string[] args)
         {
-
+            
         }
 
     }
