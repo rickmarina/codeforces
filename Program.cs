@@ -12,11 +12,9 @@ namespace codeforces
 {
     class Program
     {
-        //1675/A. Food for Animals
+        //1519/B. The Cake Is a Lie
         static void Main(string[] args)
         {
-
-            
 
         }
 
