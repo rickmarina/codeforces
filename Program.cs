@@ -1,4 +1,5 @@
-﻿using System.Net.NetworkInformation;
+﻿using System.Threading.Tasks.Dataflow;
+using System.Net.NetworkInformation;
 using System.Security.AccessControl;
 using System.Runtime.CompilerServices;
 using System.Text.RegularExpressions;
@@ -11,10 +12,12 @@ namespace codeforces
 {
     class Program
     {
-        //1551/B1. Wonderful Coloring - 1
+        //1675/A. Food for Animals
         static void Main(string[] args)
         {
+
             
+
         }
 
     }
