@@ -7,7 +7,7 @@ namespace codeforces
 {
     class Program
     {
-        //1632/A. ABC
+        //1553/A. Digits Sum
         static void Main(string[] args)
         {
             
