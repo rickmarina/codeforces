@@ -7,10 +7,11 @@ namespace codeforces
 {
     class Program
     {
-        //1553/A. Digits Sum
+        //1398/A. Bad Triangle
         static void Main(string[] args)
         {
-            
+           
+
         }
 
     }
