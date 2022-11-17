@@ -7,10 +7,11 @@ namespace codeforces
 {
     class Program
     {
-        //1398/A. Bad Triangle
+        //1285/A. Mezo Playing Zoma
         static void Main(string[] args)
         {
-           
+            
+
 
         }
 
