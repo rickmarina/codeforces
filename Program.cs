@@ -7,10 +7,11 @@ namespace codeforces
 {
     class Program
     {
-        //1285/A. Mezo Playing Zoma
+        //1196/A. Three Piles of Candies
         static void Main(string[] args)
         {
             
+          
 
 
         }
