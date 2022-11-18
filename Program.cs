@@ -7,12 +7,11 @@ namespace codeforces
 {
     class Program
     {
-        //1196/A. Three Piles of Candies
+        //1077/A. Frog Jumping
         static void Main(string[] args)
         {
             
           
-
 
         }
 
