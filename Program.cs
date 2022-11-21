@@ -7,11 +7,11 @@ namespace codeforces
 {
     class Program
     {
-        //1077/A. Frog Jumping
+        //1303/A. Erasing Zeroes
         static void Main(string[] args)
         {
-            
-          
+
+           
 
         }
 
