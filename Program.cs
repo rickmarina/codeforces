@@ -8,12 +8,11 @@ namespace codeforces
 {
     class Program
     {
-        //599/A. Patrick and Shopping
+        //1729/B. Decode String
         static void Main(string[] args)
         {
-            
-           
 
+           
 
         }
 
