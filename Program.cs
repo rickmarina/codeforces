@@ -8,15 +8,14 @@ namespace codeforces
 {
     class Program
     {
-        //1487/A. Arena
+        //1714/B. Remove Prefix
         static void Main(string[] args)
         {
-           
-             
+            
 
         }
 
-        
+
 
     }
 }
