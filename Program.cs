@@ -8,9 +8,10 @@ namespace codeforces
 {
     class Program
     {
-        //1714/B. Remove Prefix
+        //1547/B. Alphabetical Strings
         static void Main(string[] args)
         {
+            
             
 
         }
