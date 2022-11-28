@@ -8,7 +8,7 @@ namespace codeforces
 {
     class Program
     {
-        //1547/B. Alphabetical Strings
+        //1480/A. Yet Another String Game
         static void Main(string[] args)
         {
             
