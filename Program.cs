@@ -8,11 +8,11 @@ namespace codeforces
 {
     class Program
     {
-        //1388/A. Captain Flint and Crew Recruitment
+        //1562/A. The Miracle and the Sleeper
         static void Main(string[] args)
         {
+           
 
-            
 
         }
 
