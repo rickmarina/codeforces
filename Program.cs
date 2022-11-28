@@ -8,10 +8,10 @@ namespace codeforces
 {
     class Program
     {
-        //1480/A. Yet Another String Game
+        //1388/A. Captain Flint and Crew Recruitment
         static void Main(string[] args)
         {
-            
+
             
 
         }
