@@ -6,19 +6,15 @@ using System.Linq;
 
 namespace codeforces
 {
+
     class Program
     {
-        //1741/A. Compare T-Shirt Sizes
+        //1512/B. Almost Rectangle
         static void Main(string[] args)
         {
-           
             
 
-
         }
-
-
-
     }
 }
 
