@@ -9,12 +9,14 @@ namespace codeforces
 
     class Program
     {
-        //1512/B. Almost Rectangle
+        //1676/C. Most Similar Words
         static void Main(string[] args)
         {
-            
+           
 
         }
+
+       
     }
 }
 
