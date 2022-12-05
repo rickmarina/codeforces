@@ -7,7 +7,7 @@ namespace codeforces
 
     class Program
     {
-        //1697/A. Parkway Walk
+        //1698/A. XOR Mixup
         static void Main(string[] args)
         {
             
