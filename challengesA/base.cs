@@ -1,16 +1,15 @@
 using System.Linq;
-using System; 
+using System;
 
-namespace codeforces.challengesA {
+namespace codeforces.challengesA;
 
-    //A. Magical sticks
-    public class ClaseBase {
+//A. Magical sticks
+public class ClaseBase
+{
 
-        public static void solution() {
-
-            
-        }
+    public static void solution()
+    {
 
     }
-
 }
+
