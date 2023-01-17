@@ -7,7 +7,7 @@ namespace codeforces;
 
 class Program
 {
-    //1391/A. Suborrays
+    //1304/A. Two Rabbits
     static void Main(string[] args)
     {
         
