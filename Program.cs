@@ -7,10 +7,9 @@ namespace codeforces;
 
 class Program
 {
-    //1701/A. Grass Field
+    //1517/A. Sum of 2050
     static void Main(string[] args)
     {
-
         
     }
 }
