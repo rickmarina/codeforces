@@ -7,14 +7,13 @@ namespace codeforces;
 
 class Program
 {
-    //1760/C. Advantage
+    //1721/A. Image
     static void Main(string[] args)
     {
-
-       
-
-
+        
     }
+
+
 
 }
 
