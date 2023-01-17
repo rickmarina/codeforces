@@ -7,7 +7,7 @@ namespace codeforces;
 
 class Program
 {
-    //1517/A. Sum of 2050
+    //1391/A. Suborrays
     static void Main(string[] args)
     {
         
