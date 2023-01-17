@@ -7,16 +7,12 @@ namespace codeforces;
 
 class Program
 {
-    //1391/B. Fix You
+    //1701/A. Grass Field
     static void Main(string[] args)
     {
 
-       
-
+        
     }
-
-
-
 }
 
 
