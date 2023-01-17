@@ -7,9 +7,11 @@ namespace codeforces;
 
 class Program
 {
-    //1721/A. Image
+    //330/A. Cakeminator
     static void Main(string[] args)
     {
+        
+        
         
     }
 
