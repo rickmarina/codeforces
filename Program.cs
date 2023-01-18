@@ -9,11 +9,10 @@ namespace codeforces;
 
 class Program
 {
-    //96/A. Football
+    //160/A. Twins
     static void Main(string[] args)
     {
-        
-        
+       
 
     }
 }
