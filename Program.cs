@@ -8,7 +8,7 @@ namespace codeforces;
 
 class Program
 {
-    //1421/A. XORwice
+    //1345/A. Puzzle Pieces
     static void Main(string[] args)
     {
         
