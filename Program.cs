@@ -9,11 +9,9 @@ namespace codeforces;
 
 class Program
 {
-    //318/A. Even Odds
+    //133/A. HQ9+
     static void Main(string[] args)
-    {
-
-        
+    {            
 
 
     }
