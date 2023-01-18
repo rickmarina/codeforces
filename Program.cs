@@ -1,4 +1,5 @@
-﻿using System.Net.WebSockets;
+﻿using System.Reflection.Metadata;
+using System.Net.WebSockets;
 using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
 using System;
@@ -8,10 +9,12 @@ namespace codeforces;
 
 class Program
 {
-    //1345/A. Puzzle Pieces
+    //96/A. Football
     static void Main(string[] args)
     {
         
+        
+
     }
 }
 
