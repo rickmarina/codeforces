@@ -6,12 +6,11 @@ namespace codeforces;
 
 class Program
 {
-    //313/A. Ilya and Bank Account
+    //1475/A. Odd Divisor
     static void Main(string[] args)
     {
 
         
-
     }
 }
 
