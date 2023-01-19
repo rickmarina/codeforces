@@ -6,10 +6,10 @@ namespace codeforces;
 
 class Program
 {
-    //1343/A. Candies
+    //460/A. Vasya and Socks
     static void Main(string[] args)
     {
-
+        
         
     }
 }
