@@ -6,11 +6,12 @@ namespace codeforces;
 
 class Program
 {
-    //451/A. Game With Sticks
+    //313/A. Ilya and Bank Account
     static void Main(string[] args)
     {
+
         
-       
+
     }
 }
 
