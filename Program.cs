@@ -6,7 +6,7 @@ namespace codeforces;
 
 class Program
 {
-    //1475/A. Odd Divisor
+    //1343/A. Candies
     static void Main(string[] args)
     {
 
