@@ -6,12 +6,14 @@ namespace codeforces;
 
 class Program
 {
-    //1335/B. Construct the String
+    //556A/A. Case of the Zeros and Ones
     static void Main(string[] args)
     {
+
         
-       
-        
+
+
     }
 }
+
 
