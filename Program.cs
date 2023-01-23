@@ -6,13 +6,13 @@ namespace codeforces;
 
 class Program
 {
-    //1337/B. Kana and Dragon Quest game
+    //977/B. Two-gram
     static void Main(string[] args)
     {
 
         
-
     }
+    
 }
 
 
