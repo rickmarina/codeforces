@@ -6,10 +6,12 @@ namespace codeforces;
 
 class Program
 {
-    //1374/B. Multiply by 2, divide by 6
+    //34/B. Sale
     static void Main(string[] args)
     {
         
+        
+
     }
 }
 
