@@ -6,12 +6,12 @@ namespace codeforces;
 
 class Program
 {
-    //34/B. Sale
+    //474/A. Keyboard
     static void Main(string[] args)
     {
         
         
-
+        
     }
 }
 
