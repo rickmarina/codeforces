@@ -6,13 +6,11 @@ namespace codeforces;
 
 class Program
 {
-    //556A/A. Case of the Zeros and Ones
+    //149/A. Business trip
     static void Main(string[] args)
     {
 
         
-
-
     }
 }
 
