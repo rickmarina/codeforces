@@ -6,11 +6,10 @@ namespace codeforces;
 
 class Program
 {
-    //115/A. Party
+    //320/A. Magic Numbers
     static void Main(string[] args)
     {
-        
-        
+
     }
 
 }
