@@ -6,7 +6,7 @@ namespace codeforces;
 
 class Program
 {
-    //1624/B. Make AP
+    //1339/A. Filling Diamonds
     static void Main(string[] args)
     {
         
