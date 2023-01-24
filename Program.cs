@@ -6,13 +6,13 @@ namespace codeforces;
 
 class Program
 {
-    //977/B. Two-gram
+    //1624/B. Make AP
     static void Main(string[] args)
     {
-
         
+
     }
-    
+
 }
 
 
