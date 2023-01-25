@@ -6,11 +6,16 @@ namespace codeforces;
 
 class Program
 {
-    //1341/A. Nastya and Rice
+    //1535/B. Array Reodering
     static void Main(string[] args)
     {
         
+            
+
+        
     }
+
+    
 
 }
 
