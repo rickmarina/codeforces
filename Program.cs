@@ -6,10 +6,10 @@ namespace codeforces;
 
 class Program
 {
-    //1462/C. Unique Number
+    //1296/B. Food Buying
     static void Main(string[] args)
     {
-       
+        
     }
 
 }
