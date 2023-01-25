@@ -6,7 +6,7 @@ namespace codeforces;
 
 class Program
 {
-    //1296/B. Food Buying
+    //1341/A. Nastya and Rice
     static void Main(string[] args)
     {
         
