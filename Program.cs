@@ -6,12 +6,11 @@ namespace codeforces;
 
 class Program
 {
-    //1537/B. Bad Boy
+    //1555/A. PizzaForces
     static void Main(string[] args)
     {
 
         
-
     }
 }
 
