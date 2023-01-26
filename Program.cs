@@ -6,17 +6,11 @@ namespace codeforces;
 
 class Program
 {
-    //1535/B. Array Reodering
+    //1401/A. Distance and Axis
     static void Main(string[] args)
     {
         
-            
-
-        
     }
-
-    
-
 }
 
 
