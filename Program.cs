@@ -6,10 +6,12 @@ namespace codeforces;
 
 class Program
 {
-    //1401/A. Distance and Axis
+    //1537/B. Bad Boy
     static void Main(string[] args)
     {
+
         
+
     }
 }
 
