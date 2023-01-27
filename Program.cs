@@ -6,7 +6,7 @@ namespace codeforces;
 
 class Program
 {
-    //1433/C. Dominant Piranha
+    //1350/A. Orac and Factors
     static void Main(string[] args)
     {
         
