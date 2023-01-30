@@ -16,6 +16,7 @@ public class problem1206B
         long totalZero = nums.Count(x => x == 0);
 
         long coins = 0;
+        //totalNeg and totalZero can be increased inside this loop for increase performance
         for (int i = 0; i < n; i++)
         {
             if (nums[i] == 0)
