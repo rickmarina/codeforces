@@ -7,11 +7,10 @@ namespace codeforces;
 
 class Program
 {
-    //1650/B. DIV + MOD
+    //709/A. Juicer
     static void Main(string[] args)
     {
         
-
     }
 }
 
