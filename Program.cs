@@ -7,7 +7,7 @@ namespace codeforces;
 
 class Program
 {
-    //1324/A. Yet Another Tetris Problem
+    //1650/B. DIV + MOD
     static void Main(string[] args)
     {
         
