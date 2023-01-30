@@ -7,7 +7,7 @@ namespace codeforces;
 
 class Program
 {
-    //709/A. Juicer
+    //1559/A. Mocha and Math
     static void Main(string[] args)
     {
         
