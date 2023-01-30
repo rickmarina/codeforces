@@ -7,9 +7,10 @@ namespace codeforces;
 
 class Program
 {
-    //1559/A. Mocha and Math
+    //1206/B. Make Product Equal One
     static void Main(string[] args)
     {
+        
         
     }
 }
