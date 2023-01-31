@@ -7,7 +7,7 @@ namespace codeforces;
 
 class Program
 {
-    //275/A. Lights Out
+    //1486/A. Shifting Stacks
     static void Main(string[] args)
     {
         
