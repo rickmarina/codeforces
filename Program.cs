@@ -7,12 +7,11 @@ namespace codeforces;
 
 class Program
 {
-    //1543/A. Exciting Bets
+    //275/A. Lights Out
     static void Main(string[] args)
     {
         
     }
- 
 }
 
 
