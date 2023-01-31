@@ -7,7 +7,7 @@ namespace codeforces;
 
 class Program
 {
-    //276/A. Lunch Rush
+    //1742/C. Stripes
     static void Main(string[] args)
     {
         
