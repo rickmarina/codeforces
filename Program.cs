@@ -7,10 +7,9 @@ namespace codeforces;
 
 class Program
 {
-    //1206/B. Make Product Equal One
+    //276/A. Lunch Rush
     static void Main(string[] args)
     {
-        
         
     }
 }
