@@ -8,7 +8,7 @@ namespace codeforces;
 
 class Program
 {
-    //439/A. Devu, the Singer and Churu, the Joker
+    //1467/A. Wizard of Orz
     static void Main(string[] args)
     {
         
