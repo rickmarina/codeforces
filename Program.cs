@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Collections.Generic;
 using System.Reflection;
 using System.Text.RegularExpressions;
 using System;
@@ -8,7 +9,7 @@ namespace codeforces;
 
 class Program
 {
-    //1467/A. Wizard of Orz
+    //1471/A. Strange Partition
     static void Main(string[] args)
     {
         
