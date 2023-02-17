@@ -9,14 +9,13 @@ namespace codeforces;
 
 class Program
 {
-    //1525/B. Permutation Sort
+    //1326/B. Maximums
     static void Main(string[] args)
     {
         
 
     }
 
-    
 }
 
 
