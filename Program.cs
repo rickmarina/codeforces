@@ -9,12 +9,14 @@ namespace codeforces;
 
 class Program
 {
-    //1471/A. Strange Partition
+    //1525/B. Permutation Sort
     static void Main(string[] args)
     {
         
 
     }
+
+    
 }
 
 
