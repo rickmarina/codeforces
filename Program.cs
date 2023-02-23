@@ -9,7 +9,7 @@ namespace codeforces;
 
 class Program
 {
-    //1697/B. Promo
+    //1354/A. Alarm Clock
     static void Main(string[] args)
     {
         

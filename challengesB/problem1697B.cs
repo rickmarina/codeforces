@@ -4,7 +4,7 @@ using System;
 namespace codeforces.challengesB;
 
 //1697/B. Promo
-public class ClaseBase
+public class problem1697B
 {
 
     public static void solution()
