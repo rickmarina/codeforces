@@ -9,11 +9,10 @@ namespace codeforces;
 
 class Program
 {
-    //1213/A. Chips Moving
+    //768/A. Oath of the Night's Watch
     static void Main(string[] args)
     {
-        
-        
+       
     }
 
 }
