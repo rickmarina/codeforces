@@ -9,7 +9,7 @@ namespace codeforces;
 
 class Program
 {
-    //1326/B. Maximums
+    //1697/B. Promo
     static void Main(string[] args)
     {
         
