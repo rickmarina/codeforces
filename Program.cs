@@ -1,5 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Reflection;
 using System.Text.RegularExpressions;
 using System;
@@ -9,14 +8,11 @@ namespace codeforces;
 
 class Program
 {
-    //1613/A. Long Comparison
+    //1593/B. Make it Divisible by 25
     static void Main(string[] args)
     {
-       
+        
     }
-
-    
-
 }
 
 
