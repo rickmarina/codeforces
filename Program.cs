@@ -8,11 +8,14 @@ namespace codeforces;
 
 class Program
 {
-    //1593/B. Make it Divisible by 25
+    //26/A. Almost Prime
     static void Main(string[] args)
     {
+
         
     }
+
+    
 }
 
 
