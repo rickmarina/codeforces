@@ -7,12 +7,10 @@ namespace codeforces;
 
 class Program
 {
-    //746/B. Decoding
+    //1420/A. Cubes Sorting
     static void Main(string[] args)
     {
-        
-
-
+       
     }
 
 }
