@@ -20,7 +20,7 @@ public class problem1238A
 
             //La resta de (dos números pares o dos impares) es un número par divisible por 2 n-veces (primo)
             // además cualquier número > 1 puede factorizarse con números primos por lo que podremos restar n veces el primo divisor 
-            if ((diff % 2 == 0) || (diff > 1))
+            if ((diff % 2 == 0) || (diff > 1)) //únicamente con diff > 1 sería suficiente para satisfacer el problema
             {
                 Console.WriteLine("YES");
             }
