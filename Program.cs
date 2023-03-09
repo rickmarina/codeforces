@@ -7,10 +7,11 @@ namespace codeforces;
 
 class Program
 {
-    //1420/A. Cubes Sorting
+    //1295/A. Display The Number
     static void Main(string[] args)
     {
-       
+
+        
     }
 
 }
