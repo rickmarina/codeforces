@@ -8,11 +8,13 @@ namespace codeforces;
 class Program
 {
 
-    //598/A. Tricky Sum
+    //1675/B. Make It Increasing
     static void Main(string[] args)
     {
 
         
+            
+
 
     }
 }
