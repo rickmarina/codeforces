@@ -8,9 +8,10 @@ namespace codeforces;
 class Program
 {
 
-    //588/A. Duff and Meat
+    //598/A. Tricky Sum
     static void Main(string[] args)
     {
+
         
 
     }
