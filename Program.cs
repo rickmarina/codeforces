@@ -8,12 +8,10 @@ namespace codeforces;
 class Program
 {
 
-    //199/A. Hexadecimal's theorem
+    //588/A. Duff and Meat
     static void Main(string[] args)
     {
         
+
     }
-
-    
-
 }
