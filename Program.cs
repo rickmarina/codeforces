@@ -8,8 +8,11 @@ namespace codeforces;
 class Program
 {
 
-    //1559/B. Mocha and Red and Blue
+    //1794/B. Not Dividing
     static void Main(string[] args)
     {
+        
+
+
     }
 }
