@@ -8,13 +8,8 @@ namespace codeforces;
 class Program
 {
 
-    //1675/B. Make It Increasing
+    //1559/B. Mocha and Red and Blue
     static void Main(string[] args)
     {
-
-        
-            
-
-
     }
 }
