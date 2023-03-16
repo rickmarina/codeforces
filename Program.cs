@@ -8,9 +8,10 @@ namespace codeforces;
 class Program
 {
 
-    //1380/A. Three Indices
+    //1705/B. Mark the Dust Sweeper
     static void Main(string[] args)
     {
+
         
     }
 
