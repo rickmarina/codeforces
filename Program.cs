@@ -8,11 +8,10 @@ namespace codeforces;
 class Program
 {
 
-    //1794/B. Not Dividing
+    //1380/A. Three Indices
     static void Main(string[] args)
     {
         
-
-
     }
+
 }
