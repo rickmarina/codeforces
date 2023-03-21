@@ -9,11 +9,12 @@ namespace codeforces;
 class Program
 {
 
-    //1406/A. Subset Mex
+    //1779/B. MKnez's ConstructiveForces Task
     static void Main(string[] args)
     {
+
         
     }
 
-    
+
 }
