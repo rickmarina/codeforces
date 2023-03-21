@@ -9,7 +9,7 @@ namespace codeforces;
 class Program
 {
 
-    //1779/B. MKnez's ConstructiveForces Task
+    //1283/B. Candies Division
     static void Main(string[] args)
     {
 
