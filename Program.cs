@@ -9,7 +9,7 @@ namespace codeforces;
 class Program
 {
 
-    //1709/B. Also Try Minecraft
+    //1606/A. AB Balance
     static void Main(string[] args)
     {
        
