@@ -9,11 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1283/B. Candies Division
+    //1709/B. Also Try Minecraft
     static void Main(string[] args)
     {
+       
 
-        
     }
 
 
