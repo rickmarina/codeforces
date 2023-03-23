@@ -9,11 +9,10 @@ namespace codeforces;
 class Program
 {
 
-    //501/A. Contest
+    //1617/B. GCD Problem
     static void Main(string[] args)
     {
        
-
     }
 
 }
