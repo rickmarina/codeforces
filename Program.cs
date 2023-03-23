@@ -9,12 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1606/A. AB Balance
+    //501/A. Contest
     static void Main(string[] args)
     {
        
 
     }
-
 
 }
