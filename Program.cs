@@ -9,10 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1617/B. GCD Problem
+    //1720/A. Burenka Plays with Fractions
     static void Main(string[] args)
     {
-       
+        
+
     }
 
 }
