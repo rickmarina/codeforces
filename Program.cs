@@ -9,11 +9,10 @@ namespace codeforces;
 class Program
 {
 
-    //1720/A. Burenka Plays with Fractions
+    //1426/B. Symmetric Matrix
     static void Main(string[] args)
     {
         
-
     }
 
 }
