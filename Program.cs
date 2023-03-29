@@ -1,4 +1,5 @@
-﻿using System.Xml.Linq;
+﻿using System.Globalization;
+using System.Xml.Linq;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using System;
@@ -9,7 +10,7 @@ namespace codeforces;
 class Program
 {
 
-    //1430/A. Number of Apartments
+    //1494/A. ABC String
     static void Main(string[] args)
     {
         
