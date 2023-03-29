@@ -9,10 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1426/B. Symmetric Matrix
+    //1430/A. Number of Apartments
     static void Main(string[] args)
     {
         
+
     }
 
 }
