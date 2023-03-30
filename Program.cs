@@ -9,13 +9,10 @@ namespace codeforces;
 class Program
 {
 
-    //1141/B. Maximal Continuous Rest
+    //1768/B. Quick Sort
     static void Main(string[] args)
     {
        
-       
-       
-
     }
 
 }
