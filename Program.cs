@@ -9,10 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1496/A. Split it!
+    //1436/B. Prime Square
     static void Main(string[] args)
     {
-        
+       
+
     }
 
 }
