@@ -9,7 +9,7 @@ namespace codeforces;
 class Program
 {
 
-    //1768/B. Quick Sort
+    //1005/B. Delete from the Left
     static void Main(string[] args)
     {
        
