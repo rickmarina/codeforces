@@ -1,5 +1,4 @@
-﻿using System.Globalization;
-using System.Xml.Linq;
+﻿using System.Xml.Linq;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using System;
@@ -10,11 +9,10 @@ namespace codeforces;
 class Program
 {
 
-    //1494/A. ABC String
+    //1496/A. Split it!
     static void Main(string[] args)
     {
         
-
     }
 
 }
