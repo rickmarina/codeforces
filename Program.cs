@@ -9,9 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1436/B. Prime Square
+    //1141/B. Maximal Continuous Rest
     static void Main(string[] args)
     {
+       
+       
        
 
     }
