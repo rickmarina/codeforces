@@ -9,7 +9,7 @@ namespace codeforces;
 class Program
 {
 
-    //1005/B. Delete from the Left
+    //1747/B. BAN BAN
     static void Main(string[] args)
     {
        
