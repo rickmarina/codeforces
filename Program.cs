@@ -11,10 +11,11 @@ namespace codeforces;
 class Program
 {
 
-    //1679/A. AvtoBus
+    //205/A. Little Elephant and Rozdil
     static void Main(string[] args)
     {
-       
+
+        
 
     }
 
