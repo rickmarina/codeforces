@@ -11,13 +11,10 @@ namespace codeforces;
 class Program
 {
 
-    //205/A. Little Elephant and Rozdil
+    //1807/D. Odd Queries
     static void Main(string[] args)
     {
-
         
-
     }
-
 
 }
