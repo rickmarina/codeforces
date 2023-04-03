@@ -1,4 +1,5 @@
-﻿using System.Linq.Expressions;
+﻿using System.Runtime.InteropServices;
+using System.Linq.Expressions;
 using System.Xml.Linq;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
@@ -10,11 +11,12 @@ namespace codeforces;
 class Program
 {
 
-    //1095/B. Array Stabilization
+    //1679/A. AvtoBus
     static void Main(string[] args)
     {
        
+
     }
 
-    
+
 }
