@@ -9,10 +9,11 @@ namespace codeforces;
 class Program
 {
 
-    //1747/B. BAN BAN
+    //1272/A. Three Friends
     static void Main(string[] args)
     {
-       
+        
     }
+    
 
 }
