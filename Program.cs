@@ -1,20 +1,15 @@
-﻿using System.Runtime.InteropServices;
-using System.Linq.Expressions;
-using System.Xml.Linq;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-using System;
+﻿using System;
 using System.Linq;
 
 namespace codeforces;
 
 class Program
 {
-
-    //1807/D. Odd Queries
+    //1850/D. Balanced Round
     static void Main(string[] args)
     {
         
-    }
 
+        
+    }
 }
