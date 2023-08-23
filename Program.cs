@@ -5,7 +5,7 @@ namespace codeforces;
 
 class Program
 {
-    //1850/D. Balanced Round
+    //1833/B. Restore the Weather
     static void Main(string[] args)
     {
         
