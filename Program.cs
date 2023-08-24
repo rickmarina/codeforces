@@ -5,10 +5,9 @@ namespace codeforces;
 
 class Program
 {
-    //1837/B. Comparison String
+    //1771/A. Hossam and Combinatorics
     static void Main(string[] args)
     {
-
         
     }
 }
