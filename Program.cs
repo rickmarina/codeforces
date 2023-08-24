@@ -5,10 +5,9 @@ namespace codeforces;
 
 class Program
 {
-    //1833/B. Restore the Weather
+    //1837/B. Comparison String
     static void Main(string[] args)
     {
-        
 
         
     }
