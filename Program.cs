@@ -5,9 +5,10 @@ namespace codeforces;
 
 class Program
 {
-    //1771/A. Hossam and Combinatorics
+    //1749/B. Death's Blessing
     static void Main(string[] args)
     {
+
         
     }
 }
