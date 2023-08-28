@@ -1,17 +1,19 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 
 namespace codeforces;
 
 class Program
 {
-    //1291/A. Even But Not Even
+    //1451/B. Non-Substring Subsequence
     static void Main(string[] args)
     {
-       
 
-
+        
 
     }
+
+   
+
 }
