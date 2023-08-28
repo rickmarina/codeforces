@@ -5,10 +5,9 @@ namespace codeforces;
 
 class Program
 {
-    //1749/B. Death's Blessing
+    //1419/A. Digit Game
     static void Main(string[] args)
     {
-
         
     }
 }
