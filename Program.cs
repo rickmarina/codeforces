@@ -6,14 +6,10 @@ namespace codeforces;
 
 class Program
 {
-    //1451/B. Non-Substring Subsequence
+    //1856/B. Good Arrays
     static void Main(string[] args)
     {
-
         
-
     }
-
-   
 
 }
