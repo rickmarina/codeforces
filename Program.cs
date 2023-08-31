@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 
 namespace codeforces;
 
 class Program
 {
-    //1856/B. Good Arrays
+    //1845/B. Come Together
     static void Main(string[] args)
     {
-        Console.WriteLine("test");
+        
     }
 
 }
