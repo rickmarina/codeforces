@@ -9,7 +9,7 @@ class Program
     //1856/B. Good Arrays
     static void Main(string[] args)
     {
-        
+        Console.WriteLine("test");
     }
 
 }
