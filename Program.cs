@@ -1,14 +1,16 @@
 ﻿using System;
+using System.Globalization;
 using System.Linq;
+using System.Numerics;
 
 namespace codeforces;
 
 class Program
 {
-    //1699/B. Almost Ternary Matrix
     static void Main(string[] args)
     {
-        
+       
     }
+
 
 }
