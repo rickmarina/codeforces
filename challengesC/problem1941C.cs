@@ -1,5 +1,6 @@
 using System.Linq;
 using System;
+using System.Text.RegularExpressions;
 
 namespace codeforces.challengesC;
 
@@ -17,7 +18,7 @@ public class Problem1941C
             int n = int.Parse(Console.ReadLine());
             string str = Console.ReadLine();
 
-            int total = Regex.Matches(str, "map|pie").Count();
+            int total = Regex.Matches(str, "map|pie").Count;
 
             System.Console.WriteLine($"{total}");
         }
