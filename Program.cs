@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Linq;
-using System.Numerics;
 using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//C. Vasilije in Cacak
+//D. Unnatural Language Processing
 class Program
 {
     static void Main(string[] args)
     {
+        
 
-       
     }
 }
