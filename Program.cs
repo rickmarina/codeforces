@@ -3,13 +3,11 @@ using System.Linq;
 
 namespace codeforces;
 
-//C. Sending Messages
+//C. Clock and Strings
 class Program
 {
     static void Main(string[] args)
     {
-        
-
-
+       
     }
 }
