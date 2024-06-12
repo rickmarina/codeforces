@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//C. Clock and Strings
+//B. The Corridor or There and Back Again
 class Program
 {
     static void Main(string[] args)
