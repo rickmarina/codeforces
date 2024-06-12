@@ -3,11 +3,11 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. The Corridor or There and Back Again
+//B. Longest Divisors Interval
 class Program
 {
     static void Main(string[] args)
     {
-       
+      
     }
 }
