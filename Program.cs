@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Three Threadlets
+//A. Jellyfish and Undertale
 class Program
 {
     static void Main(string[] args)
