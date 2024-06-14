@@ -3,12 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Jellyfish and Undertale
+//B. Minimize Inversions
 class Program
 {
     static void Main(string[] args)
     {
-        
+       
 
     }
 
