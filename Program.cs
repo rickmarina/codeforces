@@ -3,13 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Minimize Inversions
+//A. Painting the Ribbon
 class Program
 {
     static void Main(string[] args)
     {
-       
-
+        
     }
 
 }
