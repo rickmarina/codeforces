@@ -1,17 +1,13 @@
 ﻿using System;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Xml.Schema;
 
 namespace codeforces;
 
-//A. Chess For Three
+//B. Fireworks
 class Program
 {
-
     static void Main(string[] args)
     {
-       
+        
     }
-
 }
