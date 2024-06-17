@@ -16,17 +16,13 @@ public class Problem1726A
             var v = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
             int ans = 0;
-            for (int i = 0; i + 1 < n; i++)
+            for (int i = 0; i < n-1; i++)
             {
                 ans = Math.Max(ans, v[i] - v[i + 1]);
             }
             ans = Math.Max(ans, v[n - 1] - v[0]);
-
-            int mini = v.Min();
-            ans = Math.Max(ans, v[n - 1] - mini);
-
-            int maxo = v.Max();
-            ans = Math.Max(ans, maxo - v[0]);
+            ans = Math.Max(ans, v[n - 1] - v.Min());
+            ans = Math.Max(ans, v.Max() - v[0]);
 
             System.Console.WriteLine(ans);
         }
