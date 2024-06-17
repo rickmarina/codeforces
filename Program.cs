@@ -3,12 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Painting the Ribbon
+//B. Chips on the Board
 class Program
 {
     static void Main(string[] args)
     {
-        
+       
     }
 
 }
