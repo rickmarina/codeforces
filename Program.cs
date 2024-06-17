@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Fireworks
+//A. Mainak and Array
 class Program
 {
     static void Main(string[] args)
