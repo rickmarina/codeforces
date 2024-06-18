@@ -3,11 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Mainak and Array
+//B. NIT Destroys the Universe
 class Program
 {
     static void Main(string[] args)
     {
+
         
     }
 }
