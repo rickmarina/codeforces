@@ -3,13 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Wet Shark and Odd and Even
+//A. Is it rated?
 class Program
 {
     static void Main(string[] args)
     {
        
-
-
+        
     }
 }
