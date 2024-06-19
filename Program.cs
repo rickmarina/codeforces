@@ -3,12 +3,15 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Luntik and Subsequences
+//A. Triangle
 class Program
 {
     static void Main(string[] args)
     {
         
+
+
     }
 
+   
 }
