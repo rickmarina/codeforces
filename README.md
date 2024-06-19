@@ -1,2 +1,3 @@
 # codeforces
-Programming solutions to codeforces challenges
+
+Solutions to many codeforces challenges.
