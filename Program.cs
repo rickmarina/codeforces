@@ -3,15 +3,13 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Triangle
+//B. Array Cloning Technique
 class Program
 {
     static void Main(string[] args)
     {
         
-
-
     }
 
-   
+
 }
