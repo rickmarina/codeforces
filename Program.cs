@@ -3,13 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Make It Zero
+//B. Luntik and Subsequences
 class Program
 {
     static void Main(string[] args)
     {
-       
+        
     }
-
 
 }
