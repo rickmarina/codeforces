@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. A and B and Chess
+//B. Coin Games
 class Program
 {
     static void Main(string[] args)
