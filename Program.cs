@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Napoleon Cake
+//A2. Gardener and the Capybaras (hard version)
 class Program
 {
     static void Main(string[] args)
