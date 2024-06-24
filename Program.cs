@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Equalize Prices
+//B. Shooting
 class Program
 {
     static void Main(string[] args)
