@@ -3,14 +3,12 @@ using System.Linq;
 
 namespace codeforces;
 
-//D. Manhattan Circle
+//B. Equalize Prices
 class Program
 {
     static void Main(string[] args)
     {
         
-
-
     }
 
 
