@@ -3,12 +3,13 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. Dual Trigger
+//A. From Hero to Zero
 class Program
 {
     static void Main(string[] args)
     {
         
+
     }
 
 
