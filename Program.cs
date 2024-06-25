@@ -3,13 +3,14 @@ using System.Linq;
 
 namespace codeforces;
 
-//B. Shooting
+//A. Dual Trigger
 class Program
 {
     static void Main(string[] args)
     {
         
     }
+
 
 
 }
