@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace codeforces;
 
-//A. From Hero to Zero
+//B. Sum of Medians
 class Program
 {
     static void Main(string[] args)
