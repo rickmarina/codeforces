@@ -4,14 +4,12 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//B. Mislove Has Lost an Array
+//B. Mex Master
 class Program
 {
     static void Main(string[] args)
     {
-
         
-
 
     }
 
