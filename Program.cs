@@ -4,12 +4,14 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. Lucky Numbers
+//B. Mislove Has Lost an Array
 class Program
 {
     static void Main(string[] args)
     {
+
         
+
 
     }
 
