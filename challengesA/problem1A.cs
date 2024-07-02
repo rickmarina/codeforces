@@ -17,7 +17,7 @@ public class Problem1A
         decimal horizontal = Math.Ceiling(n / a);
         decimal vertical = Math.Ceiling(m / a);
 
-        System.Console.WriteLine(horizontal * vertical);
+        Console.WriteLine(horizontal * vertical);
     }
 }
 
