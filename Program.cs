@@ -4,18 +4,14 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. Forked!
+//A. Theatre Square
 class Program
 {
     static void Main(string[] args)
     {
         
-
-
+        
 
     }
-
-
-
 }
 
