@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. Chat room
+//A. Lucky Division
 class Program
 {
     static void Main(string[] args)
