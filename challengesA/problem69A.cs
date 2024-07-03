@@ -21,7 +21,7 @@ public class Problem69A
             sz += forces[2];
         }
 
-        if (sx + sy + sz != 0)
+        if (sx !=0 || sy !=0 || sz != 0)
             System.Console.WriteLine("NO");
         else
             System.Console.WriteLine("YES");
