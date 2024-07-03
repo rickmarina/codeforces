@@ -18,5 +18,3 @@ public class Problem1A
         Console.WriteLine(horizontal * vertical);
     }
 }
-
-

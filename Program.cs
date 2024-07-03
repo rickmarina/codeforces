@@ -4,12 +4,13 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. Theatre Square
+//A. String Task
 class Program
 {
     static void Main(string[] args)
     {
         
+       
         
 
     }
