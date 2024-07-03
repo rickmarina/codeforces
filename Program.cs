@@ -4,13 +4,12 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. String Task
+//A. Young Physicist
 class Program
 {
     static void Main(string[] args)
     {
         
-       
         
 
     }
