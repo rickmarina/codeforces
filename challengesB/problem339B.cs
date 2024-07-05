@@ -1,7 +1,7 @@
 using System.Linq;
 using System;
 
-namespace codeforces.challengesA;
+namespace codeforces.challengesB;
 
 //B. Xenia and Ringroad
 public class Problem339B
