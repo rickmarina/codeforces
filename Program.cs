@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. Football
+//A. New Year Candles
 class Program
 {
     static void Main(string[] args)
