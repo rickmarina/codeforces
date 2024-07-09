@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. New Year Candles
+//C. Move Brackets
 class Program
 {
     static void Main(string[] args)
