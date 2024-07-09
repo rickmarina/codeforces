@@ -4,14 +4,12 @@ using System.Text.RegularExpressions;
 
 namespace codeforces;
 
-//A. Olesya and Rodion
+//A. Dreamoon and Stairs
 class Program
 {
     static void Main(string[] args)
     {
         
-
-
     }
 }
 
