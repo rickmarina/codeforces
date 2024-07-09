@@ -6,7 +6,6 @@ namespace codeforces.challengesC;
 //C. Move Brackets
 public class Problem1374C
 {
-
     public static void solution()
     {
         int tc = int.Parse(Console.ReadLine());
@@ -15,25 +14,23 @@ public class Problem1374C
             int n = int.Parse(Console.ReadLine());
             string s = Console.ReadLine();
 
-            int count = 0;
+            Stack<char> stack = new();
             int ans = 0;
             for (int i = 0; i < n; i++)
             {
                 if (s[i] == '(')
-                    count++;
+                    stack.Push('(');
                 else
-                    count--;
-
-                if (count < 0)
                 {
-                    count = 0;
-                    ans++;
+                    if (stack.Count == 0)
+                        ans++;
+                    else
+                        stack.Pop();
                 }
+
             }
 
             System.Console.WriteLine(ans);
-
-
         }
     }
 }
