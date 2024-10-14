@@ -1,15 +1,15 @@
-﻿using System;
-using System.Linq;
-using System.Text.RegularExpressions;
+﻿namespace codeforces;
 
-namespace codeforces;
-
-//A. Dreamoon and Stairs
+//A. Arpa’s hard exam and Mehrdad’s naive cheat
 class Program
 {
     static void Main(string[] args)
     {
+
         
+
+
     }
+
 }
 
