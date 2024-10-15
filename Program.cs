@@ -1,14 +1,11 @@
 ﻿namespace codeforces;
 
-//A. Arpa’s hard exam and Mehrdad’s naive cheat
+//A. Road To Zero
 class Program
 {
     static void Main(string[] args)
     {
-
         
-
-
     }
 
 }
