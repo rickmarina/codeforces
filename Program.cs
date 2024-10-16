@@ -1,11 +1,13 @@
 ﻿namespace codeforces;
 
-//A. Road To Zero
+//B. Lecture
 class Program
 {
     static void Main(string[] args)
     {
         
+
+
     }
 
 }
