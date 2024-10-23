@@ -1,11 +1,11 @@
 ﻿namespace codeforces;
 
-//A. K-divisible Sum
+//A. Nastia and Nearly Good Numbers
 class Program
 {
     static void Main(string[] args)
     {
-       
+        
     }
 
 }
