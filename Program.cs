@@ -1,12 +1,11 @@
 ﻿namespace codeforces;
 
-//A. The number of positions
+//A. K-divisible Sum
 class Program
 {
     static void Main(string[] args)
     {
-
-        
+       
     }
 
 }
