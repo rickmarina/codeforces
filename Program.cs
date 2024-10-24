@@ -1,11 +1,11 @@
 ﻿namespace codeforces;
 
-//C. Board Moves
+//A. Jzzhu and Children
 class Program
 {
     static void Main(string[] args)
     {
-        
+
     }
 
 }
