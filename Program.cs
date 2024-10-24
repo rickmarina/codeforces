@@ -1,6 +1,6 @@
 ﻿namespace codeforces;
 
-//A. Nastia and Nearly Good Numbers
+//C. Board Moves
 class Program
 {
     static void Main(string[] args)
