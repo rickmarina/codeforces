@@ -1,10 +1,11 @@
 ﻿namespace codeforces;
 
-//A. Jzzhu and Children
+//B. Mahmoud and a Triangle
 class Program
 {
     static void Main(string[] args)
     {
+       
 
     }
 
