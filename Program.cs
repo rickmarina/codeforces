@@ -1,6 +1,8 @@
-﻿namespace codeforces;
+﻿using System.Linq;
 
-//B. Buttons
+namespace codeforces;
+
+//B. Lovely Palindromes
 class Program
 {
     static void Main(string[] args)
