@@ -2,13 +2,12 @@
 
 namespace codeforces;
 
-//A. Game 23
+//C. Good Prefixes
 class Program
 {
     static void Main(string[] args)
     {
         
-
     }
 
 }
