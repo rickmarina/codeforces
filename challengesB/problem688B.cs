@@ -1,7 +1,7 @@
 using System.Linq;
 using System;
 
-namespace codeforces.challengesA;
+namespace codeforces.challengesB;
 
 //B. Lovely Palindromes
 public class Problem688B
