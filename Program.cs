@@ -2,7 +2,7 @@
 
 namespace codeforces;
 
-//C. Good Prefixes
+//C. Not Adjacent Matrix
 class Program
 {
     static void Main(string[] args)
