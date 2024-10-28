@@ -1,12 +1,11 @@
 ﻿namespace codeforces;
 
-//B. Mahmoud and a Triangle
+//B. Buttons
 class Program
 {
     static void Main(string[] args)
     {
-       
-
+        
     }
 
 }
