@@ -2,7 +2,7 @@
 
 namespace codeforces;
 
-//C. Not Adjacent Matrix
+//B. Card Game
 class Program
 {
     static void Main(string[] args)
