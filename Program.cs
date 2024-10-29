@@ -2,13 +2,12 @@
 
 namespace codeforces;
 
-//B. Card Game
+//B. String LCM
 class Program
 {
     static void Main(string[] args)
     {
         
     }
-
 }
 
