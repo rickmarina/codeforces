@@ -1,12 +1,12 @@
-﻿using System.Linq;
-
+﻿
 namespace codeforces;
 
-//B. String LCM
+//D. Distinct Split
 class Program
 {
     static void Main(string[] args)
     {
+        
         
     }
 }
