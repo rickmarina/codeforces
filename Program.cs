@@ -1,14 +1,13 @@
 ﻿
 namespace codeforces;
 
-//D. Black and White Stripe
+//C. Raspberries
 class Program
 {
     static void Main(string[] args)
     {
 
-        
-
+       
     }
 }
 
