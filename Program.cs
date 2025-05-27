@@ -1,13 +1,14 @@
 ﻿
 namespace codeforces;
 
-//D. Distinct Split
+//D. Black and White Stripe
 class Program
 {
     static void Main(string[] args)
     {
+
         
-        
+
     }
 }
 
