@@ -1,12 +1,15 @@
 ﻿
+using System.Security.Cryptography;
+
 namespace codeforces;
 
-//C. Ski Resort
+//A. Petr and Book
 class Program
 {
     static void Main(string[] args)
     {
         
+
     }
 
 }
