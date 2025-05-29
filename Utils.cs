@@ -18,4 +18,13 @@ public static class Utils
         return (a / GCD(a, b)) * b;
     }
 
+    public static long CalcularCombinaciones(long n, long k)  
+    {
+        if (k > n || k <= 0 || n <= 0) return 0;
+
+        long t = n - k + 1;
+        return t * (t + 1) / 2;
+       
+    }
+
 }

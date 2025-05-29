@@ -1,12 +1,13 @@
 ﻿
 namespace codeforces;
 
-//B. Swap and Delete
+//C. Ski Resort
 class Program
 {
     static void Main(string[] args)
     {
         
     }
+
 }
 
