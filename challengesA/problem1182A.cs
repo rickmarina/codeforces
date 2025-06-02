@@ -1,12 +1,11 @@
-﻿
-namespace codeforces;
+namespace codeforces.challengesA;
 
 //A. Filling Shapes
-class Program
+public class Problem1182A
 {
-    static void Main(string[] args)
-    {
 
+    public static void solution()
+    {
         int n = int.Parse(Console.ReadLine());
 
         int ans = 0;
@@ -17,6 +16,4 @@ class Program
 
         Console.WriteLine(ans);
     }
-
 }
-
